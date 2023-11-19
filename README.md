@@ -13,3 +13,5 @@ When a fire burns out of control it is known as Wild Fire​
 ## Forest Fires: The Indian Scenario
 
 ![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/3a3a16dd-e506-439b-b075-ae8b2e77ace4)
+
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/6a9b9b86-1f6f-49b2-841b-fd3a34c6d2e4)
