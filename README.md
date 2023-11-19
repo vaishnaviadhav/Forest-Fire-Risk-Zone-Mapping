@@ -88,13 +88,10 @@ Accuracy is based on the Fire points which are coming inside the Fire Risk Zone.
 
 Accuracy % = Fire points fell in high and very high fire risk classes / Total number of fire points * 100
 
-Risk zone	 Number of fire occurred	 Percentage
-Very Low	0	0
-Low	2	1.131
-Moderate	22	14.38
-High	60	39.22
-Very High	69	45.10
 ![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/7534fd86-d5f7-48bc-8010-54eaab108a9d)
+
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/a6e85e69-1e81-4e08-8a9f-6b486e7972f1)
+
 
 
 
