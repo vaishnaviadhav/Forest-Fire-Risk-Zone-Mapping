@@ -28,4 +28,14 @@ When a fire burns out of control it is known as Wild Fire​
 
 ## Analysis
 
-Tree Cover Loss, Monthly Fire Alerts and Emission of co2e
+Tree Cover Loss
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/4ee15e9c-88ca-4c6b-82c2-f1e23007abe3)
+
+Monthly Fire Alerts
+
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/1a1b9fe7-6c68-4aaa-ac20-8ce7cfd11b80)
+
+Emission of co2e
+
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/f6510320-c489-4633-9fb6-98784b10100d)
+
