@@ -21,3 +21,11 @@ When a fire burns out of control it is known as Wild Fire​
 - Report the major fire-causing factors in the study area and to predict the chance of occurrences of fire.
 - Investigate the natural and anthropogenic key factors that may affect the fire risk in Kandhmal region.
 - Determining fire risk area using multiple parameters.
+
+## Area of Interest
+
+![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/e4b2fbe9-c5fe-42c3-b9cc-d4a7a33a08dc)
+
+## Analysis
+
+Tree Cover Loss, Monthly Fire Alerts and Emission of co2e
