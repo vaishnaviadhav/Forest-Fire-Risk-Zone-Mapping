@@ -1,6 +1,6 @@
 # Forest Fire Risk Zone Mapping using Logistic Regression model in R - A Case study of Kandhamal District, Odisha​
 
-As per the multiple forest fire events occurred in Odisha, Kandhamal was one of the major affected district in 2015. In this project, a small attempt has done to predict fire risk zones considering specific features to avoid serious consequences ahead due to fire.
+As per the multiple forest fire events occurred in Odisha, Kandhamal was one of the major affected district in 2019. In this project, a small attempt has done to predict fire risk zones considering specific features to avoid serious consequences ahead due to fire.
 
 ![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/df6e9f4a-b775-480e-9ab4-9435bed479ad)
 
@@ -89,6 +89,8 @@ Accuracy is based on the Fire points which are coming inside the Fire Risk Zone.
 Accuracy % = Fire points fell in high and very high fire risk classes / Total number of fire points * 100
 
 ![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/7534fd86-d5f7-48bc-8010-54eaab108a9d)
+
+The picture below shows before and after scenario of the forest fire event which occurred in 2019.
 
 ![image](https://github.com/vaishnaviadhav/Forest-Fire-Risk-Zone-Mapping/assets/71253152/a6e85e69-1e81-4e08-8a9f-6b486e7972f1)
 
